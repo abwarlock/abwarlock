@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Any mobile App Project who gives me interesting edge**
 
-- 👨‍💻 All of my projects are available at [https://abhijit-ghorpade-resume.netlify.app/](https://abhijit-ghorpade-resume.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abhijit-ghorpade-resume.netlify.app/)
 
 - 💬 Ask me about **Android | iOS | SwiftUI | Jetpack Compose | Kotlin Multiplatform | Flutter | MVVM | Kotlin |**
 
 - 📫 How to reach me **abdevwarlock@gmail.com**
 
-- 📄 Know about my experiences [https://abhijit-ghorpade-resume.netlify.app/](https://abhijit-ghorpade-resume.netlify.app/)
+- 📄 Know about my experiences [Portfolio](https://abhijit-ghorpade-resume.netlify.app/)
 
 - ⚡ Fun fact **Playing video games gives me new ways to think about writing code**
 
